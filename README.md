@@ -8,20 +8,13 @@ Repozytorium zostało podzielne na kilka kluczowych sekcji:
 
 - `/docs` - Główny folder zawierający dokumentację projektu.
     - `/Architecture` - Dokumentacja architektoniczna projektu, w tym `iteracja1.md` opisująca początkową strukturę.
-    - `/Wytyczne dla ról.md` - Wytyczne dla różnych zespołów projektowych:
-        - `architekci.md` - dla architektów,
-        - `backendowcy.md` - dla zespołu backendowego,
-        - `testerzy.md` - dla testerów,
-        - `projektancji ui.md` - dla projektantów UI.
-    - `/Wymagania.md` - Wymagania projektowe, w tym `iteracja1.md` z wymaganiami dla pierwszej iteracji.
-    - `/Narzędzia.md` - Opis narzędzi wykorzystywanych w projekcie:
-        - `github.md` - jak korzystać z GitHub w kontekście naszego projektu,
-        - `figma.md` - wytyczne dotyczące korzystania z Figma,
-        - `microsoft.md` - informacje o narzędziach Microsoft używanych w projekcie.
+    - `/Wytyczne dla ról` - Wytyczne dla różnych zespołów projektowych.
+    - `/Wymagania` - Wymagania projektowe, w tym `iteracja1.md` z wymaganiami dla pierwszej iteracji.
+    - `/Narzędzia` - Opis narzędzi wykorzystywanych w projekcie
 - `Architektura.md` - Podsumowanie architektury projektu.
 - `Wytyczne dla ról.md` - Ogólne wytyczne dla zespołu.
 - `Wymagania.md` - Podsumowanie wymagań projektowych.
-- `Tools.md` - Podsumowanie narzędzi używanych w projekcie.
+- `Narzędzia.md` - Podsumowanie narzędzi używanych w projekcie.
 - `index.md` - Strona główna dokumentacji projektu na GitHub Pages.
 
 #### Jak Korzystać z Repozytorium
