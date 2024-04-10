@@ -8,7 +8,7 @@ Repozytorium zostało podzielne na kilka kluczowych sekcji:
 
 - `/docs` - Główny folder zawierający dokumentację projektu.
     - `/Architecture` - Dokumentacja architektoniczna projektu, w tym `iteracja1.md` opisująca początkową strukturę.
-    - `/Guidelines.md` - Wytyczne dla różnych zespołów projektowych:
+    - `/Wytyczne dla ról.md` - Wytyczne dla różnych zespołów projektowych:
         - `architekci.md` - dla architektów,
         - `backendowcy.md` - dla zespołu backendowego,
         - `testerzy.md` - dla testerów,
@@ -19,7 +19,7 @@ Repozytorium zostało podzielne na kilka kluczowych sekcji:
         - `figma.md` - wytyczne dotyczące korzystania z Figma,
         - `microsoft.md` - informacje o narzędziach Microsoft używanych w projekcie.
 - `Architecture.md` - Podsumowanie architektury projektu.
-- `Guidelines.md` - Ogólne wytyczne dla zespołu.
+- `Wytyczne dla ról.md` - Ogólne wytyczne dla zespołu.
 - `Requirements.md` - Podsumowanie wymagań projektowych.
 - `Tools.md` - Podsumowanie narzędzi używanych w projekcie.
 - `index.md` - Strona główna dokumentacji projektu na GitHub Pages.

@@ -2,5 +2,5 @@
 title: Architekci
 nav_order: 2
 has_children: false
-parent: Guidelines
+parent: Wytyczne dla ról
 ---

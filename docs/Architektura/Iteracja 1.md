@@ -2,9 +2,9 @@
 title: Iteracja 1
 nav_order: 1
 has_children: false
-parent: Requirements
+parent: Architektura
 ---
 
-### Use Case 1
+### Model 1
 
-scenario
+img

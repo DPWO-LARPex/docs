@@ -3,7 +3,7 @@ title: Wytyczne dla ról
 nav_order: 2
 has_children: true
 ---
-W katalogu Guidelines każdy *zespół* powinien umieścić zdefiniowane przez nich wytyczne dla danej roli:
+W katalogu Wytyczne dla ról każdy *zespół* powinien umieścić zdefiniowane przez nich wytyczne dla danej roli:
 
 Oto lista ról w zespole:
 - Kierownik
