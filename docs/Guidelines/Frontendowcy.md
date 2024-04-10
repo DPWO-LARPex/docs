@@ -1,6 +1,6 @@
 ---
-title: Architekci
-nav_order: 2
+title: Frontendowcy
+nav_order: 5
 has_children: false
 parent: Guidelines
 ---
