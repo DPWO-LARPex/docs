@@ -8,9 +8,9 @@ has_children: true
 ### Narzędzia
 
 W projekcie wykorzystujemy następujące narzędzia:
-- [Github]("/docs/Narzędzia/Github.md")
-- [Figma]("/docs/Narzędzia/Figma.md")
-- [Microsoft Teams, Docs]("/docs/Narzędzia/Microsoft.md")
-- [Enterprise Architect]("/docs/Narzędzia/EA.md")
-- [Visual Studio Code]("/docs/Narzędzia/VSC.md")
-- pgAdmin
+- [Github]("/docs/Narzędzia/Github.html")
+- [Figma]("/docs/Narzędzia/Figma.html")
+- [Microsoft Teams, Docs]("/docs/Narzędzia/Microsoft.html")
+- [Enterprise Architect]("/docs/Narzędzia/EA.html")
+- [Visual Studio Code]("/docs/Narzędzia/VSC.html")
+- [pgAdmin](https://dpwo-larpex.github.io/docs/Narz%C4%99dzia/pgAdmin.html)
