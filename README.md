@@ -1,6 +1,6 @@
 ### Przewodnik do korzystania z GitHub Pages
 
-Witaj w repozytorium [dokumentacji](https://dpwo-larpex.github.io/) naszego projektu! Aby zapewnić spójność i efektywność pracy, stworzyliśmy ten krótki przewodnik dotyczący korzystania z GitHub Pages oraz struktury naszego repozytorium. Znajdziesz tu niezbędne informacje o plikach i folderach, oraz jak efektywnie nimi zarządzać.
+Witaj w repozytorium [dokumentacji](https://dpwo-larpex.github.io/docs) naszego projektu! Aby zapewnić spójność i efektywność pracy, stworzyliśmy ten krótki przewodnik dotyczący korzystania z GitHub Pages oraz struktury naszego repozytorium. Znajdziesz tu niezbędne informacje o plikach i folderach, oraz jak efektywnie nimi zarządzać.
 
 #### Struktura Repozytorium
 
